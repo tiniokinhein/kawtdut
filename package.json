@@ -1,0 +1,42 @@
+{
+  "name": "kawtdut",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "i18next": "^20.3.2",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-http-backend": "^1.2.6",
+    "moment": "^2.29.1",
+    "next": "11.0.0",
+    "next-pwa": "^5.2.21",
+    "next-seo": "^4.26.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-i18next": "^11.11.0",
+    "react-icons": "^4.2.0",
+    "react-iframe": "^1.8.0",
+    "react-loading-skeleton": "^2.2.0",
+    "react-medium-image-zoom": "^4.3.4",
+    "react-moment": "^1.1.1",
+    "react-redux": "^7.2.4",
+    "react-share": "^4.4.0",
+    "react-slick": "^0.28.1",
+    "react-sticky-el": "^2.0.9",
+    "react-web-share": "^1.1.0",
+    "redux": "^4.1.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "swr": "^0.5.6"
+  },
+  "devDependencies": {
+    "sass": "^1.35.1"
+  }
+}
